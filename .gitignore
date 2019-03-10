@@ -1,4 +1,4 @@
 
 .idea/
-dataset/flower/*
+dataset/flower_data/*
 weights/*.pth
